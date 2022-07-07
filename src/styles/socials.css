@@ -1,0 +1,15 @@
+.Social{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.card{
+    height: 20vh;
+    width: 10vw;
+    margin: 1%;
+}
+.icon{
+    height: 85%;
+    width: 100%;
+}
